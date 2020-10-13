@@ -1,2 +1,1 @@
-Testing techniques for Spark Streaming using a Kafka source
-# kafka-spark-testing
+Code supporting this article: http://datalackey.com/2020/09/22/unit-integration-testing-kafka-and-spark/
